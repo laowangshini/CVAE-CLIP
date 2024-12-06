@@ -1,0 +1,26 @@
+# 忽略编译生成的文件夹
+/.autodl
+
+# 忽略数据集
+/celeba_datasets
+/datasets
+/Variational-Autoencoder-Family
+
+# 忽略压缩包
+archive.zip
+Variational-Autoencoder-Family.zip
+SimHei.zip
+fixed.zip
+fixed_datasets.zip
+datasets.zip
+
+#忽略其他文件
+SimHei.ttf
+/.Trash-0
+.ipynb_checkpoints
+░ц╚и╦╡├ў.txt
+
+#路径文件
+clip_cvae_celeba.pth
+cvae_celeba.pth
+clip_cvae_celeba_epochs_20.pth
