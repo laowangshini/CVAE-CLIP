@@ -19,8 +19,11 @@ SimHei.ttf
 /.Trash-0
 .ipynb_checkpoints
 ░ц╚и╦╡├ў.txt
+clip_embeddings/image_embeddings.pt
+clip_embeddings/text_embeddings.pt
 
 #路径文件
 clip_cvae_celeba.pth
 cvae_celeba.pth
 clip_cvae_celeba_epochs_20.pth
+text_to_image_embedder.pth
