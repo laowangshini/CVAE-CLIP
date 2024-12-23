@@ -5,6 +5,7 @@
 /celeba_datasets
 /datasets
 /Variational-Autoencoder-Family
+data
 
 # 忽略压缩包
 archive.zip
@@ -13,14 +14,19 @@ SimHei.zip
 fixed.zip
 fixed_datasets.zip
 datasets.zip
-
+data.zip
+datafixed.zip
+zip
 #忽略其他文件
 SimHei.ttf
 /.Trash-0
 .ipynb_checkpoints
 ░ц╚и╦╡├ў.txt
+clip_embeddings
 clip_embeddings/image_embeddings.pt
 clip_embeddings/text_embeddings.pt
+Machine_learning/juanjishenjingwangluo
+Machine_learning
 
 #路径文件
 clip_cvae_celeba.pth
