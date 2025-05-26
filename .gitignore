@@ -17,6 +17,7 @@ datasets.zip
 data.zip
 datafixed.zip
 zip
+
 #忽略其他文件
 SimHei.ttf
 /.Trash-0
@@ -33,3 +34,6 @@ clip_cvae_celeba.pth
 cvae_celeba.pth
 clip_cvae_celeba_epochs_20.pth
 text_to_image_embedder.pth
+
+#忽略图片
+/image
